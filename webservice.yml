@@ -4,3 +4,4 @@ services:
     build: https://github.com/georgevbarbu/webhookServer/blob/main/webhooksrv.dockerfile
     ports:
       - "80:80"
+#End of file
