@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web:
+    build: https://github.com/georgevbarbu/webhookServer/blob/main/webhooksrv.dockerfile
+    ports:
+      - "80:80"
