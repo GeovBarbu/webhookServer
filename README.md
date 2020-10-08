@@ -10,4 +10,8 @@ The repository contains:
 
 The how to information was taken from Dustin Wheelers blog at: https://mdwheele.github.io/blog/2017/09/24/how-to-receive-github-webhooks-when-using-docker-locally/
 
-Let's see if it works
+Let's see if it works...
+
+Well, it doesn't. At least not yet. The localtunnel container fails almost instantly with an error that I'm not sure were to start debugging.It builds just fine but when starting....
+
+Oh well....
